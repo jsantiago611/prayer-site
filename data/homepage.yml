@@ -80,11 +80,11 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
