@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: Prayer Process
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
