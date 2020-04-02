@@ -62,7 +62,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Types of Prayer
   item:
   - title: Adoration
     icon: ti-palette
